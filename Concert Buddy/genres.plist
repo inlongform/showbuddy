@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>genres</key>
+	<array>
+		<string>all</string>
+		<string>ambient</string>
+		<string>acoustic</string>
+		<string>blues</string>
+		<string>classical</string>
+		<string>country</string>
+		<string>electronic</string>
+		<string>emo</string>
+		<string>folk</string>
+		<string>hardcore</string>
+		<string>hip hop</string>
+		<string>indie</string>
+		<string>jazz</string>
+		<string>latin</string>
+		<string>metal</string>
+		<string>pop</string>
+		<string>pop punk</string>
+		<string>punk</string>
+		<string>reggae</string>
+		<string>rnb</string>
+		<string>rock</string>
+		<string>soul</string>
+	</array>
+</dict>
+</plist>
